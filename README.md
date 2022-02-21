@@ -1,0 +1,2 @@
+# Cookies
+Cookies are important!
